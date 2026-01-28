@@ -5,7 +5,7 @@ export default function Resume() {
           Resume   
         </h1>
         <div className="flex justify-center">
-          <embed src="CV.pdf" width="750rem" height="900rem" />
+          <embed src="Resume.pdf" width="750rem" height="900rem" />
         </div>
         
       </main>
