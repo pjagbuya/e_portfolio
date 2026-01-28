@@ -19,18 +19,7 @@ function navbar() {
     </Link>
     <Link className="division-cell" href="/resume">
     <div className="font-style-navbar">Resume</div></Link>
-    <Link className="division-cell" href="/reflection">
-    
-      <div className="font-style-navbar">
-        Reflection PCK 
-        </div>
-      
-    </Link>
-    <Link className="division-cell" href="/Reflection_LRF">
-    <div className="font-style-navbar">
-      Reflection LRF
-      </div>
-    </Link>
+
 
     </nav>
 
