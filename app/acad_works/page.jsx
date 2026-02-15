@@ -131,7 +131,13 @@ export default function Acad_Works() {
       <a href="https://re-kite.vercel.app/login" className="underline text-violet-300 text-center" target="_blank">https://re-kite.vercel.app/login</a>
 
       </div>
+<div class="justify-center flex text-slate-900 font-medium">
+  Simple project demo of a booking reservation website
+</div>
+      <div className="justify-center flex">
+      <a href="https://drive.google.com/file/d/1q1spoS7iBC9NxDZy0krJH7TdlnVAkjUJ/view?usp=sharing" className="underline text-violet-300 text-center" target="_blank">https://drive.google.com/file/d/1q1spoS7iBC9NxDZy0krJH7TdlnVAkjUJ/view?usp=sharing</a>
 
+      </div>
       </main>
     )
   }
