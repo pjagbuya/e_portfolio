@@ -119,6 +119,19 @@ export default function Acad_Works() {
 
       </div>
 
+       <div className="mt-5 flex gap-5 justify-center mb-5">
+
+        <Image src={"/Anki-Transcriptor.png"} alt="temp" width={800} height={600}/>
+        
+      </div>
+        <p >
+          Anki-like website based on transcribing your voice, integrated with Postgress Supabase, Google Cloud, and Vercel:
+        </p>
+      <div className="justify-center flex">
+      <a href="https://re-kite.vercel.app/login" className="underline text-violet-300 text-center" target="_blank">https://re-kite.vercel.app/login</a>
+
+      </div>
+
       </main>
     )
   }
